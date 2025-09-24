@@ -1,9 +1,5 @@
 # Advanced Distributed Cache System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/std/the-standard)
-[![CMake](https://img.shields.io/badge/CMake-3.15%2B-brightgreen)](https://cmake.org/)
-
 A high performance, distributed caching system implemented in modern C++17. This system provides thread safety, comprehensive metrics collection, and robust cluster management capabilities optimized for high-throughput environments.
 
 ## Key Features
@@ -130,4 +126,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Modern C++ Design Patterns
 - High-Performance Computing Principles
+
 - Distributed Systems Architecture
